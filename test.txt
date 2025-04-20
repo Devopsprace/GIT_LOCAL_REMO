@@ -1,0 +1,2 @@
+This is testing where GIT_LOCAL_REMO folder create 
+and push to github
