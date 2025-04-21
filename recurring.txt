@@ -1,0 +1,4 @@
+#!/bin/bash
+
+BASEDIR=$(dirname 0)
+CUR_DT=$(date +%d-%m-%y)
