@@ -1,0 +1,2 @@
+This command is used to copy remote repo to you local branch.
+This will only pull master branch
